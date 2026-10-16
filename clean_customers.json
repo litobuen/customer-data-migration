@@ -1,0 +1,58 @@
+[
+  {
+    "user_id":101,
+    "full_name":"Lito Buen",
+    "contact_info":"buen.lito@yahoo.com",
+    "country_code":"PH",
+    "status_flag":1,
+    "signup_date":"2026-10-04"
+  },
+  {
+    "user_id":102,
+    "full_name":"John Smith",
+    "contact_info":"+1-555-0199",
+    "country_code":"US",
+    "status_flag":1,
+    "signup_date":"2026-10-02"
+  },
+  {
+    "user_id":103,
+    "full_name":"Maria Santos",
+    "contact_info":"maria@gmail.com",
+    "country_code":"PH",
+    "status_flag":0,
+    "signup_date":"2026-10-01"
+  },
+  {
+    "user_id":104,
+    "full_name":"Anna De Guzman",
+    "contact_info":"anna.dg@outlook.com",
+    "country_code":"PH",
+    "status_flag":1,
+    "signup_date":"2026-09-30"
+  },
+  {
+    "user_id":105,
+    "full_name":"David Doe",
+    "contact_info":null,
+    "country_code":"US",
+    "status_flag":0,
+    "signup_date":null
+  },
+  {
+    "user_id":106,
+    "full_name":"Juan Dela Cruz",
+    "contact_info":"9175551234",
+    "country_code":"PH",
+    "status_flag":1,
+    "signup_date":"2026-10-03"
+  },
+  {
+    "user_id":107,
+    "full_name":"Anonymous Owner",
+    "contact_info":null,
+    "country_code":"SG",
+    "status_flag":0,
+    "signup_date":"2026-10-01"
+  }
+]

@@ -1,0 +1,8 @@
+user_id,full_name,contact_info,country_code,status_flag,signup_date
+101,Lito Buen,buen.lito@yahoo.com,PH,1,2026-10-04
+102,John Smith,+1-555-0199,US,1,2026-10-02
+103,Maria Santos,maria@gmail.com,PH,0,2026-10-01
+104,Anna De Guzman,anna.dg@outlook.com,PH,1,2026-09-30
+105,David Doe,,US,0,
+106,Juan Dela Cruz,9175551234,PH,1,2026-10-03
+107,Anonymous Owner,,SG,0,2026-10-01
